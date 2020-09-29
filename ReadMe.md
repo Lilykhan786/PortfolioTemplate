@@ -1,6 +1,6 @@
 ## Portfolio Website Template
 
-This is a simple responsive portfolio website template that I made for Repl.it template jam. You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors, but thanks to [Kakashi](https://repl.it/@apoorvsingal) for fixing them. Also thanks to all people on discord who provided feedback and suggestions, especially Panda and Kub! :D
+This is a simple responsive portfolio website template that I made for [Repl.it](https://repl.it) [template jam](https://repl.it/talk/templates/Portfolio-Site-Template/37272). You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors, but thanks to [Kakashi](https://repl.it/@apoorvsingal) for fixing them. Also thanks to all people on discord who provided feedback and suggestions, especially Panda and Kub! :D
 
 > Mistakes are proof that we are trying!
 
@@ -14,7 +14,8 @@ I learned so much while making this template, if you use it, please let me know.
 + **Font Awesome** for Icons 
 + **Unsplash** for Images 
 
-You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D 
+***
+Site's [**online link**](https://portfolio-site-template.lilykhan.repl.co/)
 
-
-Feel free to contribute to the code but do not steal the code and post it everywhere as your work and if you want to use the template don't forget to give the credit  
+You can add more things to make it even cooler! The comments in the code will help you navigate through it.
+Feel free to contribute to the code _but please do not steal the code and post it everywhere as your work and if you want to use the template don't forget to give the credit._  Have a nice day! :D 
