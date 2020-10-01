@@ -174,12 +174,15 @@ a.nav-link{
 	color: var(--main-fonts-color);
 }
 #projects h3{
-    padding-top: 70px;
+    padding: 0.5em;
+    font-size: calc(1em + 2vw);
+    padding: 0 0 1em;
 }
 #projects p{
 	font-family: var(--main-font-family);
-	font-size:1.2rem;
-	padding: 10px;
+	font-size: calc(1em + .4vw);
+	padding: 0 0 1em;
+
 }
 
 .work{
@@ -191,40 +194,51 @@ a.nav-link{
 	padding: 20px;
 }
 
-.card{
+.card,.simple-card{
 	display: flex;
-	flex-direction: column;
-	margin: 20px;
-	width: 200px;
-	height:250px;
+	justify-content: space-between;
+	margin: 20px .5em;
+	width: 90%;
+	height: 20rem;
 	border-radius:12px;
-    background:var(--main-decor-color);
+	overflow: hidden;
+        background:var(--main-decor-color);
 }
-
+.simple-card {
+	width: 30rem;
+	height: auto;
+	flex-direction: column;
+	align-items: center;
+	padding: 1em;
+}
+.card figure {
+	width: 50%;
+}
 .card img{
+	object-fit: cover;
 	width: 100%;
-	height:70%;
-	border-radius:10px 10px 0px 0px;
+	height: 100%;
 }
-
-.card .work-content{
-	text-align: center;
-	padding: 10px 5px;
-	font-size: 1rem;
-	color: var(--main-fonts-color);
-	font-family: var(--main-font-family);
-	cursor: pointer;
-}
-
 .card a{
 	text-decoration: none;
 }
 
-.card .work-content:hover{
-    color:#202020;
+.work-content{
+	text-align: center;
+	align-items: center;
+	flex-direction: column;
+	padding: 10px 5px;
+	width: 50%;
+	color: var(--main-fonts-color);
+	font-family: var(--main-font-family);
+}
+.work-link{
+	text-decoration: none;
+	font-size: calc(1em + 1vw);
+	color: var(--main-fonts-color);
 }
 
-.card:hover{
+.card:hover,.simple-card:hover{
 	box-shadow: 0 0 1.5rem gray;
 }
 
