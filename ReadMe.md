@@ -1,7 +1,11 @@
 <h1 align="center">Portfolio Website Template</h1>
-<p align="center"><a href="https://github.com/Lilykhan786/PortfolioTemplate/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Lilykhan786/PortfolioTemplate"></a><a href="https://github.com/Lilykhan786/PortfolioTemplate/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Lilykhan786/PortfolioTemplate"></a><a href="https://github.com/Lilykhan786/PortfolioTemplate/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Lilykhan786/PortfolioTemplate"></a><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FLilykhan786%2FPortfolioTemplate"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com"></a></p>
 
 This is a simple responsive portfolio website template that I made for [Repl.it](https://repl.it) [template jam](https://repl.it/talk/templates/Portfolio-Site-Template/37272). You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors, but thanks to [Kakashi](https://repl.it/@apoorvsingal) for fixing them. Also thanks to all people on discord who provided feedback and suggestions, especially Panda and Kub! :D
+
+![site](https://user-images.githubusercontent.com/47777673/131886655-129232ef-dc4b-4ea2-bf97-391ab5140ca6.JPG)
+
+<p align="center"><a href="https://github.com/Lilykhan786/PortfolioTemplate/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Lilykhan786/PortfolioTemplate"></a><a href="https://github.com/Lilykhan786/PortfolioTemplate/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Lilykhan786/PortfolioTemplate"></a><a href="https://github.com/Lilykhan786/PortfolioTemplate/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Lilykhan786/PortfolioTemplate"></a><a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FLilykhan786%2FPortfolioTemplate"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com"></a></p>
+
 
 > Mistakes are proof that we are trying!
 
